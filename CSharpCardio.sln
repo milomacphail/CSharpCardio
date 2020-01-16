@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpCardio", "CSharpCardio.csproj", "{37B9AA1C-D3EC-46FD-A858-254252739EDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B9AA1C-D3EC-46FD-A858-254252739EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B9AA1C-D3EC-46FD-A858-254252739EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B9AA1C-D3EC-46FD-A858-254252739EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B9AA1C-D3EC-46FD-A858-254252739EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C41D2E5-FB1E-45D0-837B-F3EFD3B2D83E}
+	EndGlobalSection
+EndGlobal
